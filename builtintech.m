@@ -137,4 +137,4 @@ legend('Butterworth', 'Chebyshev', 'Elliptical')
 xlabel('Normalised Frequency ');
 ylabel('Magnitude (dB)')
 
-plot(t,X_mags);
+

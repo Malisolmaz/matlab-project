@@ -1,2 +1,6 @@
 database
 database.docx
+datas
+datas/*
+
+!datas/dene.docx
